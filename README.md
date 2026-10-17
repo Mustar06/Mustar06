@@ -24,7 +24,7 @@ Focused on building, evaluating, and deploying autonomous Agentic AI systems and
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white)
 
 ## 📌 Featured Agent Systems
-- **[Market Research Crew](https://github.com/Mustar06/YOUR-REPO-NAME)** - Multi-agent system utilizing 4 specialized agents for market research, competitor analysis, customer POV, and executive report generation.
+- **[Market Research Crew](https://github.com/Mustar06/market-research-crewai)** - Multi-agent system utilizing 4 specialized agents for market research, competitor analysis, customer POV, and executive report generation.
 
 ---
 
