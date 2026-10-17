@@ -7,11 +7,19 @@ Focused on building, evaluating, and deploying autonomous Agentic AI systems and
 - **Execution & Orchestration:** Building structured outputs, error recovery, and production workflows.
 
 ## 🛠 Tech Stack
-**Agent Frameworks & LLMs:**
-CrewAI | LangChain | Pydantic V2 | OpenAI API | DeepSeek | Ollama
+## 🛠 Tech Stack
 
-**Data & Memory:**
-Vector Databases | Supabase | PostgreSQL | RAG Pipelines
+**Agent Frameworks & LLMs:**  
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Data, Memory & Infrastructure:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Core Languages & Tools:**
 Python | Git | Docker | n8n
